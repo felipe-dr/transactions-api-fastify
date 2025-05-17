@@ -1,0 +1,22 @@
+{
+  "name": "02-transactions-api-fastify",
+  "version": "1.0.0",
+  "description": "Rocketseat Formação Node.js: Criando API Rest com Node.js utilizando o Fastify",
+  "author": {
+    "name": "Felipe DR",
+    "email": "felipe.corp7@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felipe-dr/transactions-api-fastify"
+  },
+  "bugs": {
+    "url": "https://github.com/felipe-dr/transactions-api-fastify/issues",
+    "email": "felipe.corp7@gmail.com"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {}
+}
