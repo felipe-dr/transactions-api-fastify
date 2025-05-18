@@ -1,2 +1,5 @@
 # Dependencies
 node_modules
+
+# Data
+tmp/app.db
