@@ -41,6 +41,7 @@ describe('Transactions routes', () => {
       .expect(200)
 
     expect(listTransactionsResponse.body.transactions).toEqual([
+      // As it will not have the id value, then check with another inner expect
       expect.objectContaining({
         title: 'New transaction',
         amount: 5000,
