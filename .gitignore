@@ -3,5 +3,8 @@ node_modules
 
 # Data
 db/app.db
+db/test.db
 
+# Environments
 .env
+.env.test
