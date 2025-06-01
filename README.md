@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/static/v1?style=plastic&color=red&label=Zod&message=TS&logo=zod" alt="Zod" />
   </a>
   <a target="_blank" href="https://eslint.org/">
-    <img src="https://img.shields.io/static/v1?style=plastic&color=red&label=ESLint&message=JS&logo=eslint" alt="Eslint" />
+    <img src="https://img.shields.io/static/v1?style=plastic&color=red&label=ESLint&message=JS&logo=eslint" alt="ESLint" />
   </a>
   <a target="_blank" href="https://vitest.dev/">
     <img src="https://img.shields.io/static/v1?style=plastic&color=red&label=Vitest&message=TS&logo=vitest" alt="Vitest" />
@@ -39,7 +39,7 @@
 
 <p align="center">
   <a target="_blank" href="https://knexjs.org/">
-    <img src="https://img.shields.io/static/v1?style=plastic&color=yellow&label=Knex&message=Query Builder&logo=knex" alt="Knex" />
+    <img src="https://img.shields.io/static/v1?style=plastic&color=yellow&label=Knex&message=QueryBuilder&logo=knex" alt="Knex" />
   </a>
 </p>
 
@@ -51,6 +51,7 @@
   <li><a href="#requisitos">Requisitos</a></li>
   <li><a href="#como-executar">Como executar</a></li>
   <li><a href="#tecnologias">Tecnologias</a></li>
+  <li><a href="#prévia">Prévia</a></li>
   <li><a href="#autor">Autor</a></li>
 </ol>
 
@@ -130,13 +131,18 @@ pnpm dev
 - [Fastify](https://fastify.dev/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Zod](https://zod.dev/)
-- [Eslint](https://eslint.org/)
+- [ESLint](https://eslint.org/)
 - [Vitest](https://vitest.dev/)
 - [Supertest](https://www.npmjs.com/package/supertest)
+- [Knex](https://knexjs.org/)
 
 > **DICA !**
 >
 > Todas as demais dependências utilizadas podem ser visualizados acessando o [package.json](./package.json).
+
+## Prévia
+
+A API está hospedada na plataforma render na url https://transactions-api-fastify.onrender.com/
 
 ## Autor
 
